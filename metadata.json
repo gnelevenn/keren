@@ -1,0 +1,6 @@
+{
+  "name": "DualSense HID",
+  "description": "Virtual Bluetooth Gamepad with PS5 DualSense layout and Bluetooth HID Device API",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

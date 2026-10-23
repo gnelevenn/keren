@@ -1,0 +1,6 @@
+{
+  "summary":  "Rencana implementasi aplikasi Android Virtual Bluetooth Gamepad dengan arsitektur Bluetooth HID Device API dan tata letak fisik PS5 DualSense. Mencakup BluetoothHidManager, Report Descriptor HID, penanganan multi-touch zero-allocation, optimasi 60 FPS, feedback haptik presisi, dan antarmuka pairing cepat.",
+  "updatedAt":  "2026-10-23T15:50:45.887006491Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

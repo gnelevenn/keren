@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DualSense HID</string>
+    <string name="bluetooth_not_supported">Perangkat ini tidak mendukung Bluetooth</string>
+    <string name="hid_not_supported">Bluetooth HID Device profile tidak didukung oleh perangkat ini</string>
+    <string name="waiting_for_host">Menunggu koneksi dari Host (PC / Konsol)...</string>
+    <string name="make_discoverable">Aktifkan Mode Discoverable</string>
+    <string name="disconnect">Putuskan</string>
+</resources>
